@@ -1,0 +1,6 @@
+first=input('число1: ')
+print(len(first))
+second=input('число2: ')
+print(len(second))
+third=input('число3: ')
+print(len(third))
